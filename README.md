@@ -90,5 +90,7 @@ Launch **Power BI Desktop**, open the configuration template inside `Dashboard/`
 
 ## 📜 License & Usage Rights
 This project was compiled to fulfill the structural guidelines of a master's academic submission and hybrid corporate internship expectations. All rights regarding visualization frames, reporting models, and pipeline configurations belong to the original developer and authorized stakeholders.
+## Dashboard Of Project
+<img width="1437" height="807" alt="Screenshot 2026-04-17 111335" src="https://github.com/user-attachments/assets/33ebe0a8-155a-41a4-a29e-979074c2479a" />
 
 
